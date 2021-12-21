@@ -62,45 +62,12 @@
       <td>
         <a href="#">
           <img
-            alt="React"
-            title="React"
-            height="28px"
-            src="https://www.import.io/wp-content/uploads/2017/10/React-logo-1.png"
-          />
+               alt="react"
+               title="React"
+               height="28px"
+               src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
         </a>
       </td>
-      <td>
-        <a href="#">
-          <img
-            alt="React Native"
-            title="React Native"
-            height="28px"
-            src="https://miro.medium.com/max/1000/1*GkR93AAlILkmE_3QQf88Ug.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="#">
-          <img
-            alt="Node"
-            title="Node Js"
-            height="28px"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="#">
-          <img
-            alt="Express"
-            title="Express"
-            height="28px"
-            src="https://miro.medium.com/max/805/0*m1VOQP0FtcQufLgw.png"
-          />
-        </a>
-      </td>
-    </tr>
-    <tr>
       <td>
         <a href="#">
           <img
@@ -128,16 +95,6 @@
             title="Bootstrap"
             height="28px"
             src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="#">
-          <img
-            alt="React Strap"
-            title="Reactstrap"
-            height="28px"
-            src="https://madewithnetworkfra.fra1.digitaloceanspaces.com/spatie-space-production/3726/reactstrap.jpg"
           />
         </a>
       </td>
@@ -208,20 +165,20 @@
       <td>
         <a href="#">
           <img
-            alt="DRF"
-            title="Django Rest Framework"
+            alt="PHP"
+            title="PHP"
             height="28px"
-            src="https://storage.caktusgroup.com/media/blog-images/drf-logo2.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png"
           />
         </a>
       </td>
-      <td>
+            <td>
         <a href="#">
           <img
-            alt="Pandas"
-            title="Pandas"
+            alt="Laravel"
+            title="Laravel"
             height="28px"
-            src="https://static.javatpoint.com/tutorial/pandas/images/python-pandas.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
           />
         </a>
       </td>
