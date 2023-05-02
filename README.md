@@ -145,40 +145,40 @@
       <td>
         <a href="#">
           <img
-            alt="Python"
-            title="Python"
+            alt="Electron JS"
+            title="Electron JS"
             height="28px"
-            src="https://engineering.fb.com/wp-content/uploads/2016/05/2000px-Python-logo-notext.svg_.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png"
           />
         </a>
       </td>
       <td>
         <a href="#">
           <img
-            alt="Django"
-            title="Django"
+            alt="Node JS"
+            title="Node JS"
             height="28px"
-            src="https://cdn.artandlogic.com/wp-content/uploads/django.jpeg"
+            src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png"
           />
         </a>
       </td>
       <td>
         <a href="#">
           <img
-            alt="PHP"
-            title="PHP"
+            alt="Express JS"
+            title="Express JS"
             height="28px"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/800px-PHP-logo.svg.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
           />
         </a>
       </td>
             <td>
         <a href="#">
           <img
-            alt="Laravel"
-            title="Laravel"
+            alt="Mongo DB"
+            title="Mongo DB"
             height="28px"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png"
           />
         </a>
       </td>
