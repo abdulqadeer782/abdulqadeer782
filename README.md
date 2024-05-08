@@ -15,4 +15,15 @@
 
 ## 👨‍💻 Languages and Tools:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulqadeer782&show_icons=true&locale=en&layout=compact" alt="abdulqadeer782" /></p>
+## Github Status 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulqadeer782&show_icons=true&locale=en&layout=compact" alt="abdulqadeer782" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulqadeer782&show_icons=true&locale=en" alt="abdulqadeer782" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulqadeer782&" alt="abdulqadeer782" />
+</p>
